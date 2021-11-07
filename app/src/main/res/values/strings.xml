@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">pab-m2</string>
+    <string name="aplikasi_perhitungan_gaji">Aplikasi Perhitungan Gaji</string>
+    <string name="nama_user">Nama Lengkap</string>
+    <string name="status">Status</string>
+    <string name="menikah">Menikah</string>
+    <string name="golongan">Golongan</string>
+    <string name="golongan_1">Golongan 1</string>
+    <string name="golongan_2">Golongan 2</string>
+    <string name="hitung">Hitung</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_data_user">Input Data User</string>
+    <string name="hasil_perhitungan">Hasil Perhitungan</string>
+    <string name="gaji_bersih_rp">Gaji Bersih</string>
+</resources>
